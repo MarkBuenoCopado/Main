@@ -332,6 +332,16 @@
         <type>Checkbox</type>
     </fields>
     <fields>
+        <fullName>case7666__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>case7666</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>feb9__c</fullName>
         <defaultValue>false</defaultValue>
         <externalId>false</externalId>
