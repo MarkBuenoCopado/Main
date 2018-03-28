@@ -227,6 +227,10 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N7F00000GNgfs</field>
+            <label>CloseDate</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N7F00000F5ktV</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -239,8 +243,16 @@
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N7F00000GNgfi</field>
+            <label>Name</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N7F00000F5ktY</field>
             <label>Order Number</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N7F00000GNgfn</field>
+            <label>StageName</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N7F00000F5ktZ</field>
@@ -280,10 +292,13 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
+            <field>00N7F00000GNgfs</field>
             <field>00N7F00000F5ktV</field>
             <field>00N7F00000F5ktW</field>
             <field>00N7F00000F5ktX</field>
+            <field>00N7F00000GNgfi</field>
             <field>00N7F00000F5ktY</field>
+            <field>00N7F00000GNgfn</field>
             <field>00N7F00000F5ktZ</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
@@ -440,6 +455,10 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N7F00000GNgfs</field>
+            <label>CloseDate</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N7F00000F5ktV</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -452,8 +471,16 @@
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N7F00000GNgfi</field>
+            <label>Name</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N7F00000F5ktY</field>
             <label>Order Number</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N7F00000GNgfn</field>
+            <label>StageName</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N7F00000F5ktZ</field>
@@ -493,10 +520,13 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
+            <field>00N7F00000GNgfs</field>
             <field>00N7F00000F5ktV</field>
             <field>00N7F00000F5ktW</field>
             <field>00N7F00000F5ktX</field>
+            <field>00N7F00000GNgfi</field>
             <field>00N7F00000F5ktY</field>
+            <field>00N7F00000GNgfn</field>
             <field>00N7F00000F5ktZ</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
@@ -653,6 +683,10 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N7F00000GNgfs</field>
+            <label>CloseDate</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N7F00000F5ktV</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -665,8 +699,16 @@
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N7F00000GNgfi</field>
+            <label>Name</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N7F00000F5ktY</field>
             <label>Order Number</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N7F00000GNgfn</field>
+            <label>StageName</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N7F00000F5ktZ</field>
@@ -706,10 +748,13 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
+            <field>00N7F00000GNgfs</field>
             <field>00N7F00000F5ktV</field>
             <field>00N7F00000F5ktW</field>
             <field>00N7F00000F5ktX</field>
+            <field>00N7F00000GNgfi</field>
             <field>00N7F00000F5ktY</field>
+            <field>00N7F00000GNgfn</field>
             <field>00N7F00000F5ktZ</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
@@ -866,6 +911,10 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N7F00000GNgfs</field>
+            <label>CloseDate</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N7F00000F5ktV</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -878,8 +927,16 @@
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N7F00000GNgfi</field>
+            <label>Name</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N7F00000F5ktY</field>
             <label>Order Number</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N7F00000GNgfn</field>
+            <label>StageName</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00N7F00000F5ktZ</field>
@@ -919,10 +976,13 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
+            <field>00N7F00000GNgfs</field>
             <field>00N7F00000F5ktV</field>
             <field>00N7F00000F5ktW</field>
             <field>00N7F00000F5ktX</field>
+            <field>00N7F00000GNgfi</field>
             <field>00N7F00000F5ktY</field>
+            <field>00N7F00000GNgfn</field>
             <field>00N7F00000F5ktZ</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
