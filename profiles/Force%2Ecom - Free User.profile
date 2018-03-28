@@ -1473,6 +1473,9 @@
     <layoutAssignments>
         <layout>X8131__c-8131 Layout</layout>
     </layoutAssignments>
+    <layoutAssignments>
+        <layout>test__c-00008227 Layout</layout>
+    </layoutAssignments>
     <recordTypeVisibilities>
         <default>false</default>
         <recordType>Idea.InternalIdeasIdeaRecordType</recordType>
