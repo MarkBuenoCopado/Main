@@ -880,6 +880,11 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>true</editable>
+        <field>Event.translation__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>false</editable>
         <field>Goal.OrigGoalId__c</field>
         <readable>false</readable>
@@ -1359,6 +1364,11 @@
         <field>Task.WhoId</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Task.translation__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>Account-Account Layout</layout>
     </layoutAssignments>
@@ -1472,6 +1482,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>X8131__c-8131 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>X8234translation__c-8234translation Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>test__c-00008227 Layout</layout>
@@ -1663,6 +1676,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>false</modifyAllRecords>
         <object>X8131__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>false</allowCreate>
+        <allowDelete>false</allowDelete>
+        <allowEdit>false</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>false</modifyAllRecords>
+        <object>X8234translation__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
