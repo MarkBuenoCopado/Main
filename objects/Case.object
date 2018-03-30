@@ -322,6 +322,18 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>X8253__c</fullName>
+        <externalId>true</externalId>
+        <label>8253</label>
+        <length>9</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>testfield1__c</fullName>
         <defaultValue>false</defaultValue>
         <externalId>false</externalId>
