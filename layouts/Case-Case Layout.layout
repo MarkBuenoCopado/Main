@@ -95,6 +95,10 @@
                 <behavior>Edit</behavior>
                 <field>X8253__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>test__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>

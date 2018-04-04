@@ -34,6 +34,15 @@
     </actionOverrides>
     <enableFeeds>false</enableFeeds>
     <fields>
+        <fullName>X8307custField__c</fullName>
+        <externalId>false</externalId>
+        <label>8307custField</label>
+        <length>100</length>
+        <required>false</required>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>translation__c</fullName>
         <externalId>false</externalId>
         <label>translation</label>

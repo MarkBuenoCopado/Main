@@ -33,6 +33,10 @@
                 <behavior>Edit</behavior>
                 <field>translation__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>X8307custField__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
