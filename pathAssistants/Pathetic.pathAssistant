@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PathAssistant xmlns="http://soap.sforce.com/2006/04/metadata">
+    <active>true</active>
+    <entityName>Opportunity</entityName>
+    <fieldName>Type</fieldName>
+    <masterLabel>Pathetic</masterLabel>
+    <pathAssistantSteps>
+        <info>&lt;p&gt;Kill urself3&lt;/p&gt;</info>
+        <picklistValueName>Existing Customer - Downgrade</picklistValueName>
+    </pathAssistantSteps>
+    <pathAssistantSteps>
+        <info>&lt;p&gt;Kill urself2&lt;/p&gt;</info>
+        <picklistValueName>Existing Customer - Replacement</picklistValueName>
+    </pathAssistantSteps>
+    <pathAssistantSteps>
+        <info>&lt;p&gt;Kill urself&lt;/p&gt;</info>
+        <picklistValueName>Existing Customer - Upgrade</picklistValueName>
+    </pathAssistantSteps>
+    <pathAssistantSteps>
+        <info>&lt;p&gt;Kill urself4&lt;/p&gt;</info>
+        <picklistValueName>New Customer</picklistValueName>
+    </pathAssistantSteps>
+    <recordTypeName>__MASTER__</recordTypeName>
+</PathAssistant>
