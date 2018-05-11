@@ -108,6 +108,18 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>Case__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <externalId>false</externalId>
+        <label>Case</label>
+        <referenceTo>Case</referenceTo>
+        <relationshipLabel>Accounts</relationshipLabel>
+        <relationshipName>Accounts</relationshipName>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Lookup</type>
+    </fields>
+    <fields>
         <fullName>CleanStatus</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
@@ -154,13 +166,12 @@
     </fields>
     <fields>
         <fullName>External_Id__c</fullName>
-        <description>SELECT External_Id__c, Name from Account WHERE External_Id__c !=</description>
-        <externalId>true</externalId>
-        <inlineHelpText>SELECT External_Id__c, Name from Account WHERE External_Id__c !=</inlineHelpText>
-        <label>External Id</label>
+        <externalId>false</externalId>
+        <label>External_Id</label>
+        <length>100</length>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
-        <type>Email</type>
+        <type>Text</type>
         <unique>false</unique>
     </fields>
     <fields>
